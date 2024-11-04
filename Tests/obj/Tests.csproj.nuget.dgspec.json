@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniil\\source\\repos\\DataAnalyzing\\Tests\\Tests.csproj": {}
+    "C:\\Users\\Daniil\\Source\\Repos\\DataAnalyzing\\Tests\\Tests.csproj": {}
   },
   "projects": {
     "C:\\Users\\Daniil\\source\\repos\\DataAnalyzing\\Task5\\Task5.csproj": {
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\Daniil\\source\\repos\\DataAnalyzing\\Task7\\Task7.csproj": {
+    "C:\\Users\\Daniil\\Source\\Repos\\DataAnalyzing\\Task7\\Task7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniil\\source\\repos\\DataAnalyzing\\Task7\\Task7.csproj",
+        "projectUniqueName": "C:\\Users\\Daniil\\Source\\Repos\\DataAnalyzing\\Task7\\Task7.csproj",
         "projectName": "Task7",
-        "projectPath": "C:\\Users\\Daniil\\source\\repos\\DataAnalyzing\\Task7\\Task7.csproj",
+        "projectPath": "C:\\Users\\Daniil\\Source\\Repos\\DataAnalyzing\\Task7\\Task7.csproj",
         "packagesPath": "C:\\Users\\Daniil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniil\\source\\repos\\DataAnalyzing\\Task7\\obj\\",
+        "outputPath": "C:\\Users\\Daniil\\Source\\Repos\\DataAnalyzing\\Task7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -126,14 +126,14 @@
         }
       }
     },
-    "C:\\Users\\Daniil\\source\\repos\\DataAnalyzing\\Task8\\Task8.csproj": {
+    "C:\\Users\\Daniil\\Source\\Repos\\DataAnalyzing\\Task8\\Task8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniil\\source\\repos\\DataAnalyzing\\Task8\\Task8.csproj",
+        "projectUniqueName": "C:\\Users\\Daniil\\Source\\Repos\\DataAnalyzing\\Task8\\Task8.csproj",
         "projectName": "Task8",
-        "projectPath": "C:\\Users\\Daniil\\source\\repos\\DataAnalyzing\\Task8\\Task8.csproj",
+        "projectPath": "C:\\Users\\Daniil\\Source\\Repos\\DataAnalyzing\\Task8\\Task8.csproj",
         "packagesPath": "C:\\Users\\Daniil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniil\\source\\repos\\DataAnalyzing\\Task8\\obj\\",
+        "outputPath": "C:\\Users\\Daniil\\Source\\Repos\\DataAnalyzing\\Task8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -187,14 +187,14 @@
         }
       }
     },
-    "C:\\Users\\Daniil\\source\\repos\\DataAnalyzing\\Tests\\Tests.csproj": {
+    "C:\\Users\\Daniil\\Source\\Repos\\DataAnalyzing\\Tests\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniil\\source\\repos\\DataAnalyzing\\Tests\\Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Daniil\\Source\\Repos\\DataAnalyzing\\Tests\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "C:\\Users\\Daniil\\source\\repos\\DataAnalyzing\\Tests\\Tests.csproj",
+        "projectPath": "C:\\Users\\Daniil\\Source\\Repos\\DataAnalyzing\\Tests\\Tests.csproj",
         "packagesPath": "C:\\Users\\Daniil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniil\\source\\repos\\DataAnalyzing\\Tests\\obj\\",
+        "outputPath": "C:\\Users\\Daniil\\Source\\Repos\\DataAnalyzing\\Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -212,14 +212,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Daniil\\source\\repos\\DataAnalyzing\\Task5\\Task5.csproj": {
-                "projectPath": "C:\\Users\\Daniil\\source\\repos\\DataAnalyzing\\Task5\\Task5.csproj"
+              "C:\\Users\\Daniil\\Source\\Repos\\DataAnalyzing\\Task5\\Task5.csproj": {
+                "projectPath": "C:\\Users\\Daniil\\Source\\Repos\\DataAnalyzing\\Task5\\Task5.csproj"
               },
-              "C:\\Users\\Daniil\\source\\repos\\DataAnalyzing\\Task7\\Task7.csproj": {
-                "projectPath": "C:\\Users\\Daniil\\source\\repos\\DataAnalyzing\\Task7\\Task7.csproj"
+              "C:\\Users\\Daniil\\Source\\Repos\\DataAnalyzing\\Task7\\Task7.csproj": {
+                "projectPath": "C:\\Users\\Daniil\\Source\\Repos\\DataAnalyzing\\Task7\\Task7.csproj"
               },
-              "C:\\Users\\Daniil\\source\\repos\\DataAnalyzing\\Task8\\Task8.csproj": {
-                "projectPath": "C:\\Users\\Daniil\\source\\repos\\DataAnalyzing\\Task8\\Task8.csproj"
+              "C:\\Users\\Daniil\\Source\\Repos\\DataAnalyzing\\Task8\\Task8.csproj": {
+                "projectPath": "C:\\Users\\Daniil\\Source\\Repos\\DataAnalyzing\\Task8\\Task8.csproj"
               }
             }
           }
